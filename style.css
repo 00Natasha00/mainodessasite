@@ -1,0 +1,49 @@
+header, main{
+  margin:10px;
+  background:#263E65;
+  color:#FFFFFF;
+  text-align:center;
+  width:780px;
+}  
+main{background:#C1CCDE
+  
+}
+nav a{
+  
+  color:#FFFFFF;
+  margin:20px;
+  padding:15px;
+  width:50px;
+  text-decoration:none;
+  border-radius:10px;
+}
+nav{
+  width:600px;
+  text-align:left;
+  padding:20px;
+}
+main{
+  height:380px;
+  
+}
+.picture{
+  float:left;
+ margin:20px;
+
+}
+.'Одеська обласна державна адміністрація — місцева державна адміністрація Одеської області.'{
+   margin:10px;
+  text-align:left;
+  color:#00000;
+  width:780px;
+  height:50px;
+
+  
+}
+footer{
+   margin:10px;
+  height:50px;
+  background:#C1CCDE;
+  color:#FBFCFF;
+  width:780px;
+}
